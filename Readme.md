@@ -1,15 +1,9 @@
 # Starbud-Echoes
 
-一个网页版小游戏项目。
+## 🎮 点击直接游玩
 
-## 运行方式
+[开始游戏](https://szybwdzq.github.io/Starbud-Echoes/)
 
-直接打开 index.html 即可运行。
+## 项目说明
 
-## 技术栈
-
-HTML / CSS / JavaScript
-
-## License
-
-MIT License
+这是一个网页小游戏，使用 HTML / CSS / JavaScript 制作。
