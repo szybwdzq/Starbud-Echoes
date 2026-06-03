@@ -1,9 +1,32 @@
-# Starbud-Echoes
+# Starbud Echoes Game
 
-## 🎮 点击直接游玩
+一个使用 HTML、CSS 和 JavaScript 制作的网页互动游戏项目。
 
-[开始游戏](https://szybwdzq.github.io/Starbud-Echoes/)
+## 项目介绍
 
-## 项目说明
+这是一个基于浏览器运行的互动小游戏项目，用于练习前端开发、游戏逻辑设计、界面优化和 AI 辅助编程。
 
-这是一个网页小游戏，使用 HTML / CSS / JavaScript 制作。
+## 技术栈
+
+- HTML
+- CSS
+- JavaScript
+
+## 项目目标
+
+- 优化游戏界面
+- 完善交互逻辑
+- 增加更多玩法和剧情
+- 使用 AI 辅助进行代码调试、重构和功能开发
+
+## 适合的 AI 辅助开发场景
+
+- 代码调试
+- 页面美化
+- 功能扩展
+- 游戏逻辑优化
+- 项目文档完善
+
+## 许可证
+
+MIT License
